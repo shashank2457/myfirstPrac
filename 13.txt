@@ -1,5 +1,5 @@
 dsadsadsadas  dsa as :wq
-I registered a new domain (ssml.io) and I want to use it to host a static website using S3 and Cloudfront. For this website I want an SSL connection using a AWS Certificate Manager certificate.
+Iejdsadskj hkhs kdha sak skja dhas khdkja sdhkja gistered a new domain (ssml.io) and I want to use it to host a static website using S3 and Cloudfront. For this website I want an SSL connection using a AWS Certificate Manager certificate.
 To finish this setup you have to go through these steps:
 Create an S3 bucket and upload your index.html file
 Create a cloudfront distribution pointing to this S3 bucket
